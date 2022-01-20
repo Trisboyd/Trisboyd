@@ -1,5 +1,5 @@
-### I'm Tristan Boyd, software engineer extradordinaire*!
-# *open to some interpretation
+# I'm Tristan Boyd, software engineer extradordinaire*!
+### *open to some interpretation
 
 I'm a Full Stack MERN developer who also knows some python, SQL, and learning Solidity.  Also a musician mostly focusing on hitting loud things but with a good bit of string guys in there too (ie. drums, guitars, bass).
 
