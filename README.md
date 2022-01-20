@@ -7,10 +7,11 @@ I got a superfluous amount of degress in the aforementioned hitting stuff catego
 
 ## Here are bullet points to avoid my verbosity:
 
-### I'M
+### I'M ...
 
 - 🔭 currently working on Century Wealth Planning demo site and API
 - 🌱 currently learning Solidity
 - 👯 interested in Web 3.0
 - 💬 trying to read a book a month (mostly successful)
+- not sure what the last bullet image should be
 
